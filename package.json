@@ -1,0 +1,14 @@
+{
+  "name": "zarf",
+  "version": "0.1.0",
+  "description": "wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darronj@outlook.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
