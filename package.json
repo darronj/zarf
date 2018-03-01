@@ -1,6 +1,6 @@
 {
-  "name": "@darronj/zarf",
-  "version": "0.1.1",
+  "name": "zarf",
+  "version": "0.1.0",
   "description": "wrapper",
   "repository": {
     "type": "git",
