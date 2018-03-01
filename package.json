@@ -2,9 +2,13 @@
   "name": "zarf",
   "version": "0.1.0",
   "description": "wrapper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darronj/zarf"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "author": "darronj@outlook.com",
   "license": "ISC",
