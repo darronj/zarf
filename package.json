@@ -11,7 +11,7 @@
     "test": "jasmine"
   },
   "author": "darronj@outlook.com",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jasmine": "^3.1.0"
   }
